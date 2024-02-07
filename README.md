@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # strapi
 =======
 # Getting Started with Create React App
